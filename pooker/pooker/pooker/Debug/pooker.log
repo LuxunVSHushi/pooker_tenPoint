@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  main.cpp
+  pooker.cpp
+e:\vc++test\pooker\pooker\pooker\pooker.cpp(138): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\vc++test\pooker\pooker\pooker\pooker.cpp(163): warning C4101: “index1”: 未引用的局部变量
+e:\vc++test\pooker\pooker\pooker\pooker.cpp(211): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+e:\vc++test\pooker\pooker\pooker\pooker.cpp(199): warning C4715: “mouse_val”: 不是所有的控件路径都返回值
+  pooker.vcxproj -> E:\VC++TEST\pooker\pooker\Debug\pooker.exe

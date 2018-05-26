@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pooker.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pooker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="pooker.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="meihua1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\beimian.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\dawang.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian12.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\fangpian13.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao12.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\heitao13.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao12.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\hongtao13.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua12.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\meihua13.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\pook\xiaowang.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="beimian.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="dawang.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian12.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="fangpian13.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao12.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="heitao13.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao12.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="hongtao13.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua12.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="meihua13.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="chupai.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\chupai.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
